@@ -110,7 +110,7 @@ author:
   location         : "Taipei, Taiwan"
   email            :
   links:
-    label: "Email"
+    - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
      url: "mailto:xavierchtsai@ntu.edu.tw"
     - label: "Website"
