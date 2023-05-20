@@ -108,11 +108,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hematologist. Assistant Professor and Attending Physician."
   location         : "Taipei, Taiwan"
-  email            :
+  email            : "xavierchtsai@ntu.edu.tw"
   links:
     - label: "Email"
-    icon: "fas fa-fw fa-envelope-square"
-     url: "mailto:xavierchtsai@ntu.edu.tw"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:xavierchtsai@ntu.edu.tw"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
